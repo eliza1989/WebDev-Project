@@ -1,0 +1,152 @@
+
+
+body{
+    text-decoration-color: rgb(194, 148, 178);
+    font-size: 30pt;
+    font-family: 'Zen Dots', cursive;
+    overflow: none;
+    background-color:rgba(255, 208, 206, 0.993);
+    border: 5px;
+
+}
+
+
+
+
+
+
+#aboutme{
+    
+    width: 90px;
+    padding-bottom: 15px;
+    vertical-align: middle;}
+
+
+
+#banner{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    padding-left: 35px;
+}
+
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 15px;
+    padding: 15px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    height: auto;
+    width: 25%;
+    float: left;
+    font-size: 35pt;
+    
+    
+  }
+
+  
+
+
+
+
+header{
+    display: center;
+}
+
+
+
+.tableau{
+    
+    padding: 8%;
+    display: center;
+    border: 5px solid blue 92%
+}
+
+.YT{
+   margin-left: 40%;
+   padding-top: 5%;
+
+   
+    
+   
+}
+
+
+
+
+p{
+    margin-top: 3%;
+   
+}
+
+
+#movie{
+    height: 300px;
+    margin-left: 3%;
+    border: 5px solid rgb(255, 255, 255);
+  
+}
+
+#drive{
+    height: 300px;
+    
+    border: 5px solid rgb(255, 255, 255);
+
+    }
+
+#plane{
+    height: 300px;
+    border: 5px solid rgb(255, 255, 255);
+}
+
+.pics{
+   
+    border:15px solid rgb(0, 0, 0); padding: 4%; padding-top: 3%;
+    
+}
+
+
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    float: left;
+    padding: 10px;
+    margin-left: 12%;
+    margin-top: 50px;
+    
+}
+
+.anchor{
+    list-style: none;
+    border:15px solid rgb(60, 61, 60);
+    text-align: center;
+    font-family: 'Zen Dots', cursive;
+    
+}
+
+.Text{
+color: rgb(81, 96, 149);
+
+    font-family: 'Zen Dots', cursive;
+    text-align: center;
+    border: 10px solid rgb(91, 7, 69);
+}
+
+.Hobbies{
+    text-align: center;
+    font-family: 'Zen Dots', cursive;
+    color: rgb(73, 57, 87);
+    font-size: 27pt;
+    
+
+}
+
+h1{
+    font-size: 40pt;
+    color: rgb(81, 96, 149);
+}
